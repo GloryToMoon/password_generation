@@ -67,4 +67,4 @@ if __name__ == '__main__':
         check()
         write_file(sys.argv[1])
     else:
-        print ("Usage: python3 generate-pass.txt input.txt")
+        print ("Usage: python3 generate-pass.py input.txt")
